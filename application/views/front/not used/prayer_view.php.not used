@@ -1,0 +1,6 @@
+<div class="tab-pane" id="prayer">
+    <div class="prayer" id="prayer">
+<!--        <div class="title">নামাজের সময়</div>-->
+        <iframe width="390" height="220" frameborder="0" vspace="0" hspace="0" marginwidth="0" marginheight="0" src="http://www.islamwire.com/widg/prayer.htm" noresize="noresize"></iframe>
+    </div>
+</div>

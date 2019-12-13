@@ -1,0 +1,132 @@
+.ajax-poll-form {
+    margin:0 auto;
+    padding:20px;
+    text-align:left;
+    border:1px solid #c0c0c0;
+    /*width:300px;*/
+    /*background-color:#ffffe0;*/
+    /*font-family:'times';*/
+}
+
+.ajax-poll-title {
+    color:#404040;
+    font-size:18px;
+    font-weight: bold;
+    /*text-align:justify;*/
+    /*margin-bottom:20px;*/
+    line-height: 1.5;
+}
+
+.ajax-poll-item {
+    margin:0 0 5px 0;
+    padding:8px;
+    cursor:pointer;
+}
+
+.ajax-poll-item-mover {
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    background-color:#f0f0c0;
+}
+
+.ajax-poll-item-sel {
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    background-color:#e0e0c0;
+}
+
+.ajax-poll-item-caption {
+    font-size:18px;
+    margin:0;
+}
+
+.ajax-poll-item-radio {
+    margin:0 5px 0 0;
+    padding:0;
+}
+
+.ajax-poll-item-stats-box {
+    display:none;
+    height:30px;
+}
+
+.ajax-poll-item-bar {
+    margin:0;
+    padding:0;
+    width:0;
+    height:5px;
+    line-height:0;
+    font-size:1px;
+    background-color:#008000;
+    border-radius: 3px;
+    -moz-border-radius: 4px;
+}
+
+.ajax-poll-item-count {
+    font-size:12px;
+    margin:0 5px 0 0;
+}
+
+.ajax-poll-item-perc {
+    font-size:12px;
+    margin:0px;
+}
+
+.ajax-poll-item-desc-box {
+    height:30px;
+    font-size:12px;
+    font-style:italic;
+}
+
+.ajax-poll-vote-box {
+    text-align:center;
+    margin-top:20px;
+    height:20px;
+}
+
+.ajax-poll-btn-view {
+    float:left;
+    width:100px;
+}
+
+.ajax-poll-btn-vote {
+    float:right;
+    width:100px;
+}
+
+.ajax-poll-back-box {
+    display:none;
+    text-align:center;
+    margin-top:20px;
+    height:20px;
+}
+
+.ajax-poll-btn-back {
+    float:left;
+    width:100px;
+}
+
+.ajax-poll-total-box {
+    float:right;
+    font-family:arial;
+    font-size:15px;
+    padding:5px 0 0 0;
+}
+
+.ajax-poll-total-caption {
+    color:#808080;
+}
+
+.ajax-poll-total-value {
+    color:#808080;
+}
+
+.ajax-poll-clear-both {
+    clear:both;
+}
+
+.ajax-poll-btn-reset {
+    margin:10px 0;
+    width:200px;
+}
+

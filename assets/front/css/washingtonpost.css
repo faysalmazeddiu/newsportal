@@ -1,0 +1,37 @@
+body {
+  background-color:#F7F7F7 !important;
+}
+
+body {
+  font-size:16px;
+  line-height:1;
+  text-align:center;
+}
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {
+  margin:0;
+  padding:0;
+}
+
+
+.main-wrapper {
+  background-color:white;
+  border-left-color:#E4E4E4;
+  border-left-style:solid;
+  border-left-width:1px;
+  border-right-color:#E4E4E4;
+  border-right-style:solid;
+  border-right-width:1px;
+  font-family:arial;
+  margin:0 auto;
+  padding:0 10px !important;
+  position:relative;
+  text-align:left;
+  width:992px;
+  z-index:0;
+  height: 700px;
+
+
+}
+
+

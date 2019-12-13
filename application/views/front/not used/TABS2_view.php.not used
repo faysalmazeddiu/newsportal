@@ -1,0 +1,19 @@
+<style>
+    .tab-content > .active {
+        background:#fff;
+    }
+</style>
+
+<div class="row">
+    <div class="container-fluid">
+        <ul class="nav nav-tabs">
+            <li class="active">	<a href="#currency" data-toggle="tab">মুদ্রা বিনিময়</a></li>
+            <li>		<a href="#prayer"   data-toggle="tab">নামাজের সময়</a></li>
+        </ul>
+
+        <div class="tab-content">
+            <?php echo $currency; ?>
+            <?php echo $prayer; ?>
+        </div>
+    </div>
+</div>

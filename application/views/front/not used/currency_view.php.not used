@@ -1,0 +1,20 @@
+<div class="tab-pane active" id="currency">
+    <!--    <div class="title">মুদ্রা বিনিময়</div>-->
+    <script type="text/javascript">
+        var dcf = 'GBP';
+        var dct = 'EUR';
+        var w = '400';
+        var h = '250';
+        var f = 'arial';
+        var fs = '11';
+        var fc = '000000';
+        var bgc = 'f8fbf8';
+        var tf = 'arial';
+        var tfs = '14';
+        var tc = '2E64DF';
+        var tbc = 'E0EADF';
+        var tz = 'userset';
+    </script>
+    <script type="text/javascript" src="http://www.currency.me.uk/remote/ER-CC-1.php">
+    </script>
+</div>

@@ -1,0 +1,12 @@
+ADSPACE_view
+CAT_EACH_view
+CAT_view
+DETAIL_view
+INDEX_view
+TABS1_view
+TABS2_view
+TABS3_view
+TYPE1_view
+TYPE2_view
+TYPE3_view
+TYPE4_view

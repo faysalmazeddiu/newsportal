@@ -1,0 +1,181 @@
+@media (max-width:480px){
+  .breaking-news {
+    font-family:inherit;
+    font-size:12px;
+    border:1px solid #C20;
+    font-style:italic;
+    position:relative;
+    box-shadow:0 2px 5px -3px #000;
+    border-radius:3px;
+    width:auto;
+    margin:0;
+    padding:0 0 0 100px;
+}
+
+.breaking-news:before {
+    content:"Breaking News";
+    display:inline-block;
+    font-style:normal;
+    background:#C20;
+    color:#FFF;
+    font-weight:300;
+    position:absolute;
+    top:0;
+    left:0;
+    width:auto;
+    padding:12px;
+    font-size:10px;
+}
+
+.breaking-news:after {
+    content:'';
+    display:block;
+    top:0;
+    left:80px;
+    border:linear-gradient(#000,red);
+    height:40px;
+    width:auto;
+}
+
+
+
+ .newsticker_wrapper {
+    background:#fff;
+    color:#6d6e70;
+    border-top:1px solid #fff;
+    border-bottom:1px solid #fff;
+    line-height:12px;
+    height:55px;
+    -webkit-text-size-adjust:none;
+    overflow:visible;
+    margin:1px;
+    padding:10px;
+}
+
+
+
+.newsticker_wrapper a {
+    color:#be1e2d;
+    font-size:14px;
+    -webkit-font-size-adjust:16px;
+    margin-right:0px;
+}
+
+  .newsticker_wrapper .newsticker_title {
+    float:left;
+    background:transparent no-repeat top right;
+    padding-right:0px;
+    margin-right:0px;
+}
+
+   .break{margin-bottom:140px;}
+
+ .footer-contact{
+   background:#e0e0e0;
+   font-size:12px;
+   padding:7px 1px 7px 1px;
+    margin-left:8px;
+    margin-right:8px;
+    font-style:bold;
+
+}
+
+.title-adprice{padding-left:05px; font-size:14px;}
+.title{
+  font-size: 15px;
+}
+
+.sign {
+    border:none;
+
+    margin-bottom:10px;
+    margin-right:25px;
+    background-image: linear-gradient(to right, #FFFFFF,#FFF, #E6E6E6,#C9C9C9);
+    float:left;
+    text-align:right;
+    font-size:12px;
+    padding:10px 25px 10px 0;
+}
+   .date {
+    padding:02px;
+    font-size:14px;
+}
+
+
+	.rashifal{
+        margin-top:0px;
+        margin-left:0px;
+		margin-right:0px;
+        width:320px;
+        height:370px;
+        /*border:1px solid #2D6AB4;*/
+        padding-left:2px;
+		padding-bottom:25px;
+        overflow: hidden;
+    }
+
+	.rashiName{
+   padding-left:0px;
+    font-size:14px;
+	line-height:22px;
+    margin-left:10px;
+
+	}
+
+	.rashifal-des{
+        margin:10px;
+        font-size:14px;
+        line-height:26px;
+    }
+	.cat-box {
+    background-color:#fff;
+    box-shadow:rgba(0,0,0,0.498039) 0 0 3px 0;
+    overflow:hidden;
+    margin:0 0px 0px -12px;
+}
+
+.bbc {
+    background:#ededed;
+    height:280px;
+    margin-left:-10px;
+    padding:1px;
+    width:320px;
+}
+
+     .bbc-list {
+    font-size:19px;
+    padding:25px 0;
+}
+
+.bbc-list > a {
+    color:#174F82;
+    margin-left:47px;
+    margin-right:35px;
+}
+
+.bbc-list>a:hover {
+    text-decoration:underline;
+    color:blue;
+}
+
+.bbc_time1 {
+    padding-left:10px;
+    font-size:14px;
+    margin-left:60px;
+}
+
+.bbc_time2 {
+    padding-left:10px;
+    font-size:14px;
+    margin-left:110px;
+}
+
+        }
+
+@media(min-width:400px and max-width:600px){
+      .bbc_time2 {
+    padding-left:10px;
+    font-size:14px;
+    margin-left:70px;
+}
+}
